@@ -43,3 +43,20 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 
 ### Model Evaluation
 ![ModelEvaluation](https://github.com/taruntiwarihp/raw_images/blob/master/ModelEvaluation.png)
+
+## Technologies Used
+- Python - 3.7
+- sklearn - 0.24.2
+- Pandas  - v1.3.5
+- Numpy - v1.21.5
+- Seaborn - v0.11.2
+- Tensorflow 2.10.0
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by UpGrad Learning platform in understaning Image Classification.
+
+## Contact
+Created by [@Tarun](https://github.com/taruntiwarihp) feel free to contact!
